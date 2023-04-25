@@ -12,7 +12,7 @@ a simple rock paper scissors game
 ### Open your terminal and navigate to the directory containing the game file. Then, run the following command:
 
  '''python 
- python rock_paper_scissors.py
+ game.py
  '''
 
 ### When the game starts, the computer will make a random selection and you will need to select one of rock, paper or scissors. After you make your selection, the computer's selection and the result of the game will be printed to the screen.
